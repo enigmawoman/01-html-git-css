@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* added the scroll smooth behaviour to make the transition from the menu item to the section more visually appealing */
 html{scroll-behavior: smooth;}
 
 body {
@@ -199,7 +200,7 @@ can also remove the need for extra class selectors*/
 }
 
 /* below is now obsolete as all three have been combined into the class selector above 
-can also remove the need for extra class selectors*/
+can also remove the need for extra class selectors */
 
 /* .benefit-lead {
     margin-bottom: 32px;
@@ -273,16 +274,10 @@ footer {
     font-size: 20px;
 }
 
-footer h2 {
+/* below no longer required, as the heading attribute in the html had been changed from <h2> to <h4> */
+
+/* footer h2 {
     font-size: 20px;
-}
+} */
 
 
-/* additional media queries */
-
-@media screen and (max-width: 768px) {
-    nav,
-    ul {
-      flex-direction: column;
-    }
-}
