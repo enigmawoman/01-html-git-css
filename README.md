@@ -43,7 +43,8 @@ I have been careful to log notes within the HTML and CSS files to document the c
 # Horiseon Website
 
 ```
-Screenshot of the finished website ![Horiseon](Assets/horiseon-screenshot.png)  
+Screenshot of the finished website 
+![Horiseon](./Assets/horiseon-screenshot.png) 
 ```
 
 ## License
