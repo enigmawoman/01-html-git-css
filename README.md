@@ -44,6 +44,7 @@ I have been careful to log notes within the HTML and CSS files to document the c
 
 ```
 Screenshot of the finished website 
+```
 ![Horiseon](./Assets/horiseon-screenshot.png) 
 ```
 
